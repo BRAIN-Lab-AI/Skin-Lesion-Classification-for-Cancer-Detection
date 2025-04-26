@@ -17,7 +17,7 @@
 - [🎥 Project Presentation](/Deep-Lesion_Scan_Project_Slides.pptx)
 
 ### References
-- **Research Paper:** [Esteva et al., 2017 - Dermatologist-level classification of skin cancer with deep neural networks]([https](https://arxiv.org/pdf/2105.03358)
+- **Research Paper:** [Esteva et al., 2017 - Dermatologist-level classification of skin cancer with deep neural networks]([Soft-Attention Improves Skin Cancer Classification Performance](https://arxiv.org/pdf/2105.03358)
 - **Dataset:** [HAM10000 Dataset on Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
 
 ---
