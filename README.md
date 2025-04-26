@@ -13,7 +13,7 @@
 - **Institution:** King Fahd University of Petroleum and Minerals (KFUPM)
 
 ### Project Documents
-- [📑 Project Report](/Deep-Lesion Scan - Final Version .pdf)
+- [📑 Project Report](/Deep-Lesion_Scan-Final_Version.pdf)
 - [🎥 Project Presentation](/Deep-Lesion_Scan_Project_Slides.pptx)
 
 ### References
