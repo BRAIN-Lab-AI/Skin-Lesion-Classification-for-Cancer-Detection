@@ -76,19 +76,4 @@
 ---
 
 ## How to Run the Code
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/deep-lesion-scan.git
-cd deep-lesion-scan
-
-# Create virtual environment and install requirements
-python3 -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-# Train the model
-python train.py
-
-# Inference on new images
-python inference.py --image_path "path_to_image.jpg"
+### Let's Detect Cancer Earlier. Let's Save Lives.
