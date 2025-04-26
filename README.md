@@ -14,7 +14,7 @@
 
 ### Project Documents
 - [📑 Project Report](/Deep-Lesion_Scan)
-- [🎥 Project Presentation](/Deep-Lesion_Scan_Project_Report.docx)
+- [🎥 Project Presentation](/Deep-Lesion_Scan_Project_Slides.pptx)
 
 ### References
 - **Research Paper:** [Esteva et al., 2017 - Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
