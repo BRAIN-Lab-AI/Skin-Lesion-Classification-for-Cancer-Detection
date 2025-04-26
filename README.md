@@ -13,7 +13,7 @@
 - **Institution:** King Fahd University of Petroleum and Minerals (KFUPM)
 
 ### Project Documents
-- [📑 Project Report](/Deep-Lesion_Scan)
+- [📑 Project Report](/https://github.com/BRAIN-Lab-AI/Skin-Lesion-Classification-for-Cancer-Detection/blob/main/Deep-Lesion%20Scan%20-%20Final%20Version%20.pdf)
 - [🎥 Project Presentation](/Deep-Lesion_Scan_Project_Slides.pptx)
 
 ### References
