@@ -75,5 +75,4 @@
 
 ---
 
-## How to Run the Code
 ### Let's Detect Cancer Earlier. Let's Save Lives.
